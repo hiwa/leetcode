@@ -1,0 +1,14 @@
+package other;
+
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+class examTest {
+
+    @Test
+    void testIt () {
+
+    }
+
+}
